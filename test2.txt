@@ -1,0 +1,20 @@
+sudo apt-get update
+sudo apt-get install build-essential
+
+sudo apt-get autoremove open-vm-dkms open-vm-tools --purge
+
+vmware-hgfsclient
+
+lsmod | grep vmhgfs
+install build-essential linux-headers-$(uname -r)
+mp.weixin.qq.com/s/wdPYCc3Dn_d3iKX_YCZGAg
+mp.weixin.qq.com/s/Qdz8jd5QyVbNK9QgBmH86g
+mp.weixin.qq.com/s/YzhFocY2oan8jdFli0Hyrg
+mp.weixin.qq.com/s/04N6bjYHY3ahKQxTnld89w
+
+http://dongxicheng.org/mapreduce-nextgen/nextgen-mapreduce-introduction/
+http://dongxicheng.org/mapreduce-nextgen/understand-yarn-container-concept/
+
+http://www.cnblogs.com/kgrdomore/p/5772862.html
+
+
